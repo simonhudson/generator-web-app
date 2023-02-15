@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/simonhudson/generator-web-app/issues"
   },
-  "homepage": "https://github.com/simonhudson/generator-web-app#readme"
+  "homepage": "https://github.com/simonhudson/generator-web-app#readme",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  }
 }
